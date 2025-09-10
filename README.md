@@ -25,7 +25,7 @@ https://app.qase.io/project/G101?suite=66
 https://app.qase.io/print/project/G101?filter=%7B%7D&suite_id=66&sort_by=position
 
 Ссылка на тестовые прогоны из QASE
-https://drive.google.com/drive/folders/1DsPbPBVO2Me7ZkAYNisaw6g1Lmulg4zA
+[[https://drive.google.com/drive/folders/1DsPbPBVO2Me7ZkAYNisaw6g1Lmulg4zA](https://drive.google.com/file/d/1Sl9pFI8Ft4uq_zP--kDYEPsQZnfYiMpz/view?usp=sharing)](https://drive.google.com/file/d/1Sl9pFI8Ft4uq_zP--kDYEPsQZnfYiMpz/view?usp=sharing)
 
 
 Ссылка на Bug Reports из Youtrack
